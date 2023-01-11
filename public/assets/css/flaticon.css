@@ -1,0 +1,92 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("../fonts/flaticonc33a.ttf?abba718ebc5a4f1d997c7e9ad7a6ea55") format("truetype"), url("../fonts/flaticonc33a.woff?abba718ebc5a4f1d997c7e9ad7a6ea55") format("woff"), url("../fonts/flaticonc33a.woff2?abba718ebc5a4f1d997c7e9ad7a6ea55") format("woff2"), url("../fonts/flaticonc33a.eot?abba718ebc5a4f1d997c7e9ad7a6ea55#iefix") format("embedded-opentype"), url("../fonts/flaticonc33a.svg?abba718ebc5a4f1d997c7e9ad7a6ea55#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-world:before {
+  content: "";
+}
+
+.flaticon-gas-station:before {
+  content: "";
+}
+
+.flaticon-production:before {
+  content: "";
+}
+
+.flaticon-automation:before {
+  content: "";
+}
+
+.flaticon-factory:before {
+  content: "";
+}
+
+.flaticon-factory-1:before {
+  content: "";
+}
+
+.flaticon-industrial:before {
+  content: "";
+}
+
+.flaticon-read:before {
+  content: "";
+}
+
+.flaticon-production-1:before {
+  content: "";
+}
+
+.flaticon-production-2:before {
+  content: "";
+}
+
+.flaticon-quotation-marks-in-speech-bubble:before {
+  content: "";
+}
+
+.flaticon-handshake:before {
+  content: "";
+}
+
+.flaticon-shield:before {
+  content: "";
+}
+
+.flaticon-start-up:before {
+  content: "";
+}
+
+.flaticon-enterprise:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+
+.flaticon-factory-2:before {
+  content: "";
+}
+
+.flaticon-bar-chart:before {
+  content: "";
+}
+
+.flaticon-double-tick-indicator:before {
+  content: "";
+}
